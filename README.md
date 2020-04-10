@@ -21,6 +21,17 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 | [Java 9](https://docs.oracle.com/javase/9/docs/api) 	     | [Java 8](https://docs.oracle.com/javase/8/docs/api)             |          [Java 7](https://docs.oracle.com/javase/7/docs/api)      |  [Java 6](https://docs.oracle.com/javase/6/docs/api) |
 [Java 1.5.0](https://docs.oracle.com/javase/1.5.0/docs/api)|
 
+# Java
+
+|名称| 	地址 |	简介
+|:----------|:-----------|:------|
+|《Java编程的逻辑》 作者博客连载 |	https://www.cnblogs.com/swiftma/category/816241.html 	|从基本概念到高层框架，剖析实现原理与JDK源代码，融合专业理论与应用实践，透彻理解Java编程的思想和背后的底层逻辑
+
+# git 
+
+|名称| 	地址 |	简介
+|:----------|:-----------|:------|
+| Pro git |	https://git-scm.com/book/zh/v2	|Pro git 所有内容均根据知识共享署名非商业性共享3.0版许可证授权,各位可以免费下载阅读，有pdf、mobi、qpub格式可以下载，可以当成在线手册使用
 
 # Android 源码学习好的资源
 
