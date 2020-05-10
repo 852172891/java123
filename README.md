@@ -33,6 +33,12 @@ he place to collaborate on an open-source implementation of the Java Platform, S
 |:----------|:-----------|:------|
 | Pro git |	https://git-scm.com/book/zh/v2	|Pro git 所有内容均根据知识共享署名非商业性共享3.0版许可证授权,各位可以免费下载阅读，有pdf、mobi、qpub格式可以下载，可以当成在线手册使用
 
+# Linux 
+
+|名称| 	地址 |	简介
+|:----------|:-----------|:------|
+| 鸟歌的Linux私房菜 |	http://cn.linux.vbird.org/	|鸟哥自由软件整合应用研究室
+
 # Android 源码学习好的资源
 
 |名称| 	地址 |	简介
